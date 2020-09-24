@@ -42,9 +42,9 @@ This section should list any major frameworks that you built your project using.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+   git clone https://github.com/daniel-wdv/github-ui-clone.git
 
-   cd tailwindcss-playground
+   cd NameOfTheProjectFolder
    ```
 
 2. Install the dependencies:
